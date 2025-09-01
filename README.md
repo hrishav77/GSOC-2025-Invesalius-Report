@@ -78,8 +78,7 @@ Additionally, I fixed code issues such as improper exception handling and incorr
 - InVesalius now has a **robust pytest suite** covering core logic and workflows.
 - Critical functionality (segmentation, STL export, DICOM loading, session management) is now automatically verified.
 
-## What’s Left
-- Finalize the core component test cases.  
+## What’s Left 
 - Test whether all previously added test cases are working fine.  
 
 ## Code Status
